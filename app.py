@@ -1,6 +1,6 @@
 import streamlit as st
 import yfinance as yf
-import pandas_ta as ta
+import talib as ta
 
 st.title("Stock Buy/Sell Recommender")
 
